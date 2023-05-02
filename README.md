@@ -86,3 +86,4 @@ browser and your terminal.
 
 If you see your new SSH key beneath the "SSH keys" heading, continue to the next
 lesson, **Verify and Troubleshoot your MacOS Environment Setup**.
+ROSHEL
